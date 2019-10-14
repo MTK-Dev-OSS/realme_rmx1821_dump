@@ -1,0 +1,8 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.phone.nodisplayrecord" />
+  <feature name="oppo.mms.add.multi.image" />
+  <feature name="oppo.phone.video.call.hold" />
+  <feature name="oppo.launcher.drawer_mode.default" />
+  <feature name="oppo.keyguard.show.emergency" />
+</permissions>

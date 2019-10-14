@@ -1,0 +1,15 @@
+com.qidian.Int.reader
+com.lazada.android
+com.kwai.video
+com.tencent.wesing
+id.co.babe
+com.jakarta.baca.lite
+com.msd.JTClient
+com.ertanto.kompas.official
+com.infomedia.angkasapura2v2
+com.catfiz
+blibli.mobile.commerce
+com.ss.android.ugc.trill
+com.vova.android
+com.realmecomm.app
+cn.wps.moffice_eng

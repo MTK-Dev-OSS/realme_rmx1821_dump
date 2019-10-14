@@ -1,0 +1,5 @@
+com.nearme.themestore
+com.oppo.usercenter
+com.facebook.appmanager
+com.facebook.system
+com.facebook.services
