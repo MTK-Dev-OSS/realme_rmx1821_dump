@@ -1,0 +1,7 @@
+com.nearme.themestore
+com.oppo.usercenter
+com.coloros.safesdkproxy
+com.coloros.avastofferwall
+com.facebook.appmanager
+com.facebook.system
+com.facebook.services
